@@ -4,7 +4,11 @@ body {
     font-family: Calibri;
 }
 
-
+.clear {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
 
 .fixed {
     
@@ -31,7 +35,7 @@ body {
 }
 
 #jellyfish {
-    width: 600px;
+    width: 800px;
     margin: 20px auto;
     /* position: relative;
     top: 100px; */
