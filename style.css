@@ -44,13 +44,16 @@ body {
 .h2 {
     background-color: slategray;
     color: #fff;
-    margin: 0px;
+    margin: 0px auto;
     padding: 10px;
     text-decoration: underline;
+    width: 800px;
+    box-sizing: border-box;
 }
 
 h2 {
     margin: 0px;
+    
 }
 
 p { 
